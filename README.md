@@ -3,6 +3,8 @@
 <!--
 **lucAmbr0/lucAmbr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<a href="https://wakatime.com/@018d849f-dec6-4519-8001-9879fc3b773b"><img src="https://wakatime.com/badge/user/018d849f-dec6-4519-8001-9879fc3b773b.svg" alt="Total time coded since Feb 7 2024" /></a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
