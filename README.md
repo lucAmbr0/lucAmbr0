@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Luca.  <a href="https://wakatime.com/@018d849f-dec6-4519-8001-9879fc3b773b"><img src="https://wakatime.com/badge/user/018d849f-dec6-4519-8001-9879fc3b773b.svg?style=flat" alt="Total time coded since Feb 7 2024" /></a>
+<h2> Hey there! I'm Luca.   <a href="https://wakatime.com/@018d849f-dec6-4519-8001-9879fc3b773b"><img src="https://wakatime.com/badge/user/018d849f-dec6-4519-8001-9879fc3b773b.svg?style=flat" alt="Total time coded since Feb 7 2024" /></a>
 </h2> 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
