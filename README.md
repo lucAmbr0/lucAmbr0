@@ -26,8 +26,8 @@
 <br/>
 
 <a href="https://github.com/lucAmbr0">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucAmbr0&size_weight=0&count_weight=1&rank_icon=github&hide=issues&border_color=96a2ae&border_radius=12&theme=tokyonight&show_icons=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucAmbr0&border_color=96a2ae&border_radius=12&theme=tokyonight&layout=compact" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucAmbr0&size_weight=0&count_weight=1&rank_icon=github&hide=issues&border_color=96a2ae&border_radius=18&theme=tokyonight&show_icons=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucAmbr0&border_color=96a2ae&border_radius=18&theme=tokyonight&layout=compact" />
 </a>
 
 <br/>
