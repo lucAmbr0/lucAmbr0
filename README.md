@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Exploring various languages and working on personal projects.
 - 🎓 &nbsp; Third year studying Computer Science.
 - ✍️ &nbsp; Interested in learning UI/UX for apps and websites.
-- ✨ &nbsp; Future intentions: learn Flutter, Java, Kotlin
+- ✨ &nbsp; Future intentions: Get into WebApps, React, Android apps
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
