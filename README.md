@@ -6,6 +6,7 @@
 
 - 💻 &nbsp; Working on <a href="https://github.com/lucAmbr0/school-times">School Times</a>, boost your school day with your all-in-one dashboard.
 - 🌐 &nbsp; Web development with ReactJS
+- 📒 &nbsp; Fourth year studying CS
 
 <br/>
 
