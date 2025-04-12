@@ -1,7 +1,8 @@
 <h2> Hey there! I'm Luca.   <a href="https://wakatime.com/@018d849f-dec6-4519-8001-9879fc3b773b"><img src="https://wakatime.com/badge/user/018d849f-dec6-4519-8001-9879fc3b773b.svg?style=flat" alt="Total time coded since Feb 7 2024" /></a>
-</h2> 
+</h2>
 
-
+![Profile views](https://komarev.com/ghpvc/?username=lucAmbr0&color=blue)
+ 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;Working on <a href="https://github.com/lucAmbr0/school-times">School Times</a>, boost your school day with your all-in-one dashboard.
