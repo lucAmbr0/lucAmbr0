@@ -4,12 +4,15 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp; Working on <a href="https://github.com/lucAmbr0/school-times">School Times</a>, boost your school day with your all-in-one dashboard.
-- 🌐 &nbsp; Web development with ReactJS
-- 📒 &nbsp; Fourth year studying CS
+- 💻 &nbsp;Working on <a href="https://github.com/lucAmbr0/school-times">School Times</a>, boost your school day with your all-in-one dashboard.
+- 🌐 &nbsp;Web development with ReactJS
+- 📒 &nbsp;Fourth year studying CS
 
 <br/>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y71DD2GE)
+
+<br/>
 <a href="https://github.com/lucAmbr0">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucAmbr0&size_weight=0&count_weight=1&rank_icon=github&hide=issues&border_color=96a2ae&border_radius=18&theme=tokyonight&show_icons=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucAmbr0&border_color=96a2ae&border_radius=18&theme=tokyonight&layout=compact" />
