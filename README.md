@@ -6,8 +6,8 @@
  
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;Working on <a href="https://github.com/lucAmbr0/school-times">School Times</a>, boost your school day with your all-in-one dashboard.
-- 💭 &nbsp;Brainstorming a new project involving a ReactJS app communicating with a Java backend with REST APIs 
+- 💻 &nbsp;Working on <a href="https://github.com/lucAmbr0/local-ftp">Local-FTP</a> [Hack Club], easily share files between devices on your local network.
+- 💭 &nbsp;Exploring fullstack project involving REST APIs in Java
 - 🌐 &nbsp;Web development with ReactJS
 - 📒 &nbsp;Fourth year studying CS
 
