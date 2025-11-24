@@ -4,12 +4,12 @@
  <a href="https://wakatime.com/@018d849f-dec6-4519-8001-9879fc3b773b"><img src="https://wakatime.com/badge/user/018d849f-dec6-4519-8001-9879fc3b773b.svg?style=flat" alt="Total time coded since Feb 7 2024" /></a>
 ![Profile views](https://komarev.com/ghpvc/?username=lucAmbr0&color=blue)
  
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;About Me</h3>
 
-- 💻 &nbsp;Working on <a href="https://github.com/lucAmbr0/local-ftp">Local-FTP</a>, easily share files between devices on your local network.
-- 💭 &nbsp;Exploring fullstack project involving REST APIs in Java
+- 💻 &nbsp;Working on <a href="https://github.com/lucAmbr0/dashboard-orari">Dashboard Orari</a>, real-time class location displayed at the entrance to your school.
+- 💭 &nbsp;Exploring fullstack projects involving databases with MySQL and JavaScript APIs
 - 🌐 &nbsp;Web development with ReactJS
-- 📒 &nbsp;Fourth year studying CS
+- 📒 &nbsp;Fifth year studying CS
 
 <br/>
 
