@@ -6,9 +6,9 @@
  
 <h3> 🛠 &nbsp;About Me</h3>
 
-- 💻 &nbsp;Working on <a href="https://github.com/lucAmbr0/dashboard-orari">Dashboard Orari</a>, real-time class location displayed at the entrance to your school.
-- 💭 &nbsp;Exploring fullstack projects involving databases with MySQL and JavaScript APIs
-- 🌐 &nbsp;Web development with ReactJS
+- 💻 &nbsp;Working on <a href="https://github.com/lucAmbr0/make-a-change">Make A Change</a>, a platform where ideas become collective action. 
+- 💭 &nbsp;Exploring fullstack projects involving Next webapps and databases with MySQL
+- 🌐 &nbsp;Web development with next/react
 - 📒 &nbsp;Fifth year studying CS
 
 <br/>
@@ -16,10 +16,11 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y71DD2GE)
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/mysql.svg" alt="mysql" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="JavaScript" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/>
