@@ -6,10 +6,10 @@
  
 <h3> 🛠 &nbsp;About Me</h3>
 
-- 💻 &nbsp;Working on <a href="https://github.com/lucAmbr0/make-a-change">Make A Change</a>, a platform where ideas become collective action. 
-- 💭 &nbsp;Exploring fullstack projects involving Next webapps and databases with MySQL
+- 💻 &nbsp;Working on <a href="https://github.com/lucAmbr0/???">???</a>. 
+- 💭 &nbsp;Exploring the space between software, art, and personal experience
 - 🌐 &nbsp;Web development with next/react
-- 📒 &nbsp;Fifth year studying CS
+- 📒 &nbsp;1st year CS student @ UniMiB
 
 <br/>
 
