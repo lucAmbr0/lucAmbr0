@@ -9,7 +9,7 @@
 - 💻 &nbsp;Working on <a href="https://github.com/lucAmbr0/???">???</a>. 
 - 💭 &nbsp;Exploring the space between software, art, and personal experience
 - 🌐 &nbsp;Web development with next/react
-- 📒 &nbsp;1st year CS student @ UniMiB
+- 📒 &nbsp;1st year CS student @ <a href="https://www.unimib.it">UniMiB</a>
 
 <br/>
 
